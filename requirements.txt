@@ -1,0 +1,5 @@
+# Raspberry Pi 5 (Python 3.13, 64-bit OS)
+ultralytics          # YOLO26n-cls inference
+opencv-python        # image handling
+paho-mqtt>=2.0       # MQTT client (CallbackAPIVersion.VERSION2)
+google-genai         # Gemini API (Interactions API)

@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Closing the Loop at the Edge: code for the YOLO26n-cls + IoT + GenAI + agentic plant disease monitoring framework"
+authors:
+  - family-names: "[Surname]"
+    given-names: "[Given name]"
+version: "1.0.0"
+date-released: "2026-10-13"
+license: MIT
+repository-code: "https://github.com/[USERNAME]/plant-edge-ai-closed-loop"
