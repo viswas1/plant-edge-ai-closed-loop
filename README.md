@@ -1,6 +1,6 @@
 # Plant Edge-AI Closed Loop
 
-Code for the paper **"Closing the Loop at the Edge: A Multimodal Plant Disease Monitoring Framework Integrating YOLO26n-cls on Raspberry Pi 5, IoT Sensing, Generative AI Reporting and Safety-Gated Agentic Decision-Making."**
+Code for the paper **"we implemented"**
 
 The system runs one closed-loop cycle: **Sense → Perceive → Understand → Decide → Act → Sense again.**
 
